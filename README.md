@@ -25,5 +25,9 @@ Pointcloud example on Blender
 
 Color adjustment in space 3D plugin
 
+![](https://github.com/andrea-arranz/FabLab/blob/main/images/img03.png)
 
+Kinect V2 MacOS and Processing
 
+Library for Kinect V2 in MacOS https://github.com/OpenKinect/libfreenect2
+(There's a miss step in openni2)
