@@ -1,12 +1,12 @@
 
-#Micro Challenge 2
+# Micro Challenge 2
 
 ## MUSEUM OF INNER PORTRAITS
 https://vimeo.com/692296732
 
 ### Team members: 
 - [Andrea Arranz](https://andrea-arranz.github.io/website/)
-- [Nikita]([https://andrea-arranz.github.io/website/](https://nikita-bandarevich.github.io/web_portfolio/))
+- [Nikita](https://nikita-bandarevich.github.io/web_portfolio/)
 
 ### How is it linked to the memebers interests?
 
