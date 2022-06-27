@@ -40,6 +40,7 @@ Our purpose during this microchallenge is to generate an immersive installation 
 At first, we started using the kinect sensor to capture these movements, however, after many attempts we gave up on the option of using the LIDAR sensor, which is much more responsive to Apple's operating system. 
 
 ![kinect trials](/images/gif01.gif)
+![](https://github.com/andrea-arranz/FabLab/blob/main/images/img03.png)
 
 
 Kinect V2 MacOS and Processing
@@ -59,7 +60,8 @@ Pointcloud example on Blender
 
 Color adjustment in space 3D plugin
 
-![](https://github.com/andrea-arranz/FabLab/blob/main/images/img03.png)
+![color](/images/gif02.gif)
+
 
 
 
