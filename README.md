@@ -60,7 +60,11 @@ Pointcloud example on Blender
 
 Color adjustment in space 3D plugin
 
-![color](/images/gif02.gif)
+![color](/images/gif03.gif)
+
+Camera adjust to create movement inside scenes.
+
+![camera](/images/gif02.gif)
 
 
 
