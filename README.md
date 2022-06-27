@@ -37,7 +37,7 @@ Our purpose during this microchallenge is to generate an immersive installation 
 
 ![Diagram](/images/img07.png)
 
-At first, we started using the kinect sensor to capture these movements, however, after many attempts we gave up on the option of using the LIDAR sensor, which is much more responsive to Apple's operating system. 
+At first, we started using the kinect sensor to capture these movements, however, after many attempts we gave up on the option of using the LIDAR sensor, which is much more responsive to Apple's operating system. The links to the different libraries we have been investigating to connect the kinect v2 to a macbook are added in this repository, although with the warning that there are steps that must be solved from the terminal to be able to connect them. On a practical level we do not recommend linking kinect to macOS.
 
 ![kinect trials](/images/gif01.gif)
 ![](https://github.com/andrea-arranz/FabLab/blob/main/images/img03.png)
@@ -65,6 +65,11 @@ Color adjustment in space 3D plugin
 Camera adjust to create movement inside scenes.
 
 ![camera](/images/gif02.gif)
+
+
+### Next Steps: 
+We want to generate this experience within virtual reality so that it allows us to generate the immersivity that we wanted to achieve at the beginning of the challenge. To do this, we will use Unity as a bridge program that allows us to generate videos that can be viewed in VR.
+
 
 
 
