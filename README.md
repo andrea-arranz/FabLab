@@ -37,12 +37,23 @@ Our purpose during this microchallenge is to generate an immersive installation 
 
 ![Diagram](/images/img07.png)
 
+At first, we started using the kinect sensor to capture these movements, however, after many attempts we gave up on the option of using the LIDAR sensor, which is much more responsive to Apple's operating system. 
+
+![kinect trials](/images/gif01.gif)
+
+
+Kinect V2 MacOS and Processing
+
+Library for Kinect V2 in MacOS https://github.com/OpenKinect/libfreenect2
+(There's a miss step in openni2)
+
+Later, we started using Apple's 3D scan app in its Point Cloud function and tried to perform the first post-processing of the scans. To do that, we search for a plugin for pointcloud visualization. 
+
 Blender plug in visualizer: https://github.com/uhlik/bpy
 
 ![](https://github.com/andrea-arranz/FabLab/blob/main/images/img01.png)
 
 Pointcloud example on Blender
-
 
 ![](https://github.com/andrea-arranz/FabLab/blob/main/images/img02.png)
 
@@ -50,9 +61,7 @@ Color adjustment in space 3D plugin
 
 ![](https://github.com/andrea-arranz/FabLab/blob/main/images/img03.png)
 
-Kinect V2 MacOS and Processing
 
-Library for Kinect V2 in MacOS https://github.com/OpenKinect/libfreenect2
-(There's a miss step in openni2)
+
 
 
